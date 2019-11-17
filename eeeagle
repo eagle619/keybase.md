@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am eagle619 on github.
+  * I am eeeagle (https://keybase.io/eeeagle) on keybase.
+  * I have a public key ASAh6Y5KkKEvDPq52Iz50qGm8v3ZNujvMUGsDO2uEU_4Lgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012021e98e4a90a12f0cfab9d88cf9d2a1a6f2fdd936e8ef3141ac0cedae114ff82e0a",
+      "host": "keybase.io",
+      "kid": "012021e98e4a90a12f0cfab9d88cf9d2a1a6f2fdd936e8ef3141ac0cedae114ff82e0a",
+      "uid": "c9aa58ed159766a7ee962c69b1cf6119",
+      "username": "eeeagle"
+    },
+    "merkle_root": {
+      "ctime": 1573974596,
+      "hash": "3d24a4325d822f75a62b32749a496cc1c21c50e5809068d75425c6961da9b452250e2875cdd1da8c622e97a2e578dd73a3ae9bf037d8631334904875153c9a7b",
+      "hash_meta": "514f28a141ff6aece347404030b3da07cb3ff47ce67c8d1b837482d33a5444fc",
+      "seqno": 9905459
+    },
+    "service": {
+      "entropy": "uXHLRRECgaNSo0kFVQamIFY0",
+      "name": "github",
+      "username": "eagle619"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573974625,
+  "expire_in": 504576000,
+  "prev": "d8f80d7af2fdbdbefdad595fd810a533458fe08269e99f5a1d30ac3ef67f779b",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASAh6Y5KkKEvDPq52Iz50qGm8v3ZNujvMUGsDO2uEU_4Lgo](https://keybase.io/eeeagle), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIemOSpChLwz6udiM+dKhpvL92Tbo7zFBrAztrhFP+C4Kp3BheWxvYWTESpcCBcQg2PgNevL9vb79rVlf2BClM0WP4IJp6Z9aHTCsPvZ/d5vEIFjKvkFU84bQaPpc2ZMPaEc8qLTlcnBij51Mq8Jbk609AgHCo3NpZ8RAIHh92hO3ZsT+FsEgGHz//dw/IAQE0FTL8MN2wxsopK+RXu6zao1t1PjxLgjc1bUQnl70fgFJS0E8EijApo2DDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBaQddiAuyCw+HWV3xHt0sV3aiyKrHc6KJAjVgKYIKbpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/eeeagle
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id eeeagle
+```
